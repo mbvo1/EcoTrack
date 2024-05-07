@@ -1,0 +1,3 @@
+git add database_queries.py
+git commit -m "Otimiza consultas ao banco para melhorar a performance de carregamento da página de estatísticas"
+git push
